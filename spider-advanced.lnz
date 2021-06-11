@@ -529,10 +529,10 @@ MaineCoon
 ;Name,argument
 [Texture List]
 \art\textures\hair6.bmp  1
-\ptzfiles\cat\mc\maine9.bmp  1
-\ptzfiles\cat\mc\maine4.bmp  1
-;head   was maine 5
-\ptzfiles\cat\mc\maine5.bmp  1
+\art\textures\hair20.bmp 1
+\art\textures\hair20.bmp 1
+;head
+\art\textures\hair20.bmp 1
 \art\textures\hair3.bmp  1
 \art\textures\cali2.bmp  1
 \art\textures\mottled2.bmp  1
@@ -712,5 +712,7 @@ addballs:	92, 93, 94, 95
 
 ;Ball number,colour,(group),(texture)
 [Color Info Override]
+
+
 
 
