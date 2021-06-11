@@ -10,7 +10,7 @@ To use these files you'll need basic familiarity with hexing terminology and too
 
 ## How to use
 
-To create your own spiderz, I recommend using the `spider-blank/lnz` template. Paste the lnz into a the adult lnz of a cat breedfile of your choice and you'll be able to edit it in Petz Workshop.
+To create your own spiderz, I recommend using the `spider-blank.lnz` template. Paste the lnz into a the adult lnz of a cat breedfile of your choice and you'll be able to edit it in Petz Workshop.
 
 Once you've finished your design, you can adopt a cat from the breedfile or use the lnz in the breedfile to brex a cat.
 
