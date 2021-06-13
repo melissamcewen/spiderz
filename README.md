@@ -6,7 +6,7 @@ Cute little jumping spiderz for Petz 4. Loosely based on the popular cartoon "Lu
 
 This repository contains lnz files for creating custom Spiderz. These lnz bases provide a way to release Spiderz without a breedfile. You are welcome to create your own breedfile, but keep in mind that Spiderz do not breed true due to their scales and paintball-based eyes.
 
-To use these files you'll need basic familiarity with hexing terminology and tooling. If you're not familiar with hexing, feel free to download a pre-made Spiderz on my site.
+To use these files you'll need basic familiarity with hexing terminology and tooling. If you're not familiar with hexing, feel free to download a pre-made Spiderz [on my site](https://petz.glitch.me/spiderz/)
 
 ## How to use
 
